@@ -1,0 +1,29 @@
+_repo: Eternal-Father-Strong-to-Savea.k.a.-Navy-Hymn_17424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dykes, John Bacchus
+    birthdate: 1823
+    deathdate: 1876
+    gutenberg_agent_id: '7368'
+    url: http://www.gutenberg.org/2009/agents/7368
+    wikipedia: http://en.wikipedia.org/wiki/John_Bacchus_Dykes
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymn tunes'
+- !lcc 'M'
+title: 'Eternal Father, Strong to Save
+
+  a.k.a., Navy Hymn'
+url: http://www.gutenberg.org/ebooks/17424
