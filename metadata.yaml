@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7368
     wikipedia: http://en.wikipedia.org/wiki/John_Bacchus_Dykes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17424#Eternal-Father-Strong-to-Savea.k.a.-Navy-Hymn
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
